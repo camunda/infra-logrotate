@@ -32,4 +32,4 @@ jobs:
         registry_host: europe-west1-docker.pkg.dev
         registry_username: _json_key
         registry_password: ${{ steps.secrets.outputs.BUILDER_INT_TO_K8S_INTERNAL }}
-        image_name: camunda-internal/infra-logrotate
+        image_name: camunda-internal/main/infra-logrotate
