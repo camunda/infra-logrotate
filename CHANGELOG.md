@@ -1,5 +1,16 @@
 # Changelog
 
+## 4.0.1 (2025-04-07)
+
+## What's Changed
+* chore(deps): update alpine docker tag to v3.21 by @renovate in https://github.com/camunda/infra-logrotate/pull/24
+* chore(deps): update hashicorp/vault-action action to v3.1.0 by @renovate in https://github.com/camunda/infra-logrotate/pull/26
+* chore(deps): update hashicorp/vault-action action to v3.3.0 by @renovate in https://github.com/camunda/infra-logrotate/pull/27
+* chore(deps): update actions/create-github-app-token action to v2 by @renovate in https://github.com/camunda/infra-logrotate/pull/28
+
+
+**Full Changelog**: https://github.com/camunda/infra-logrotate/compare/4.0.0...4.0.1
+
 ## 4.0.0 (2024-10-30)
 
 ## What's Changed
