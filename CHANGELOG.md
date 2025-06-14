@@ -1,5 +1,13 @@
 # Changelog
 
+## 4.0.2 (2025-06-14)
+
+## What's Changed
+* chore(deps): update hashicorp/vault-action action to v3.4.0 by @renovate in https://github.com/camunda/infra-logrotate/pull/30
+
+
+**Full Changelog**: https://github.com/camunda/infra-logrotate/compare/4.0.1...4.0.2
+
 ## 4.0.1 (2025-06-02)
 
 ## What's Changed
