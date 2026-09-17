@@ -1,5 +1,22 @@
 # Changelog
 
+## 4.0.2 (2026-09-17)
+
+## What's Changed
+* chore(deps): update hashicorp/vault-action action to v3.4.0 by @renovate[bot] in https://github.com/camunda/infra-logrotate/pull/30
+* ci: validate pr titles by @kellervater in https://github.com/camunda/infra-logrotate/pull/32
+* chore(deps): update actions/checkout action to v5 by @renovate[bot] in https://github.com/camunda/infra-logrotate/pull/33
+* chore(deps): update actions/checkout action to v6 by @renovate[bot] in https://github.com/camunda/infra-logrotate/pull/34
+* chore(deps): update alpine docker tag to v3.23 by @renovate[bot] in https://github.com/camunda/infra-logrotate/pull/35
+* chore(deps): update actions/create-github-app-token action to v3 by @renovate[bot] in https://github.com/camunda/infra-logrotate/pull/36
+* chore(deps): update hashicorp/vault-action action to v4 by @renovate[bot] in https://github.com/camunda/infra-logrotate/pull/37
+* chore(deps): update alpine docker tag to v3.24 by @renovate[bot] in https://github.com/camunda/infra-logrotate/pull/38
+* chore(deps): update actions/checkout action to v7 by @renovate[bot] in https://github.com/camunda/infra-logrotate/pull/39
+* fix: migrate Vault auth from AppRole to JWT/OIDC by @kellervater in https://github.com/camunda/infra-logrotate/pull/40
+
+
+**Full Changelog**: https://github.com/camunda/infra-logrotate/compare/4.0.1...4.0.2
+
 ## 4.0.1 (2025-06-02)
 
 ## What's Changed
