@@ -13,7 +13,7 @@ jobs:
     permissions:
       contents: read
       id-token: write  # mint GitHub OIDC token for Vault JWT auth
-    runs-on: ubuntu-24.04
+    runs-on: ubuntu-26.04
 
     steps:
     - uses: actions/checkout@v7
