@@ -1,5 +1,13 @@
 # Changelog
 
+## 4.0.3 (2026-09-22)
+
+## What's Changed
+* chore(deps): update dependency ubuntu to v26 by @renovate[bot] in https://github.com/camunda/infra-logrotate/pull/41
+
+
+**Full Changelog**: https://github.com/camunda/infra-logrotate/compare/4.0.2...4.0.3
+
 ## 4.0.2 (2026-09-17)
 
 ## What's Changed
